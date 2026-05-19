@@ -65,4 +65,11 @@ Como estamos usando TypeScript, el editor nos marcará error, para ello debemos 
 npm install --save-dev @types/prompt-sync
 ```
 
+### Recursos de ayuda
+Curso completo: https://www.typescriptlang.org/docs/
+
+Ayuda de W3Schools: https://www.w3schools.com/typescript/
+
+TypeScript Online: https://www.typescriptlang.org/play/
+
 ### [**Subir ⬆**](#actividad-poo-con-typescript-10-04)
