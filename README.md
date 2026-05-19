@@ -55,12 +55,12 @@ Para instalarlo, ejecutar:
 npm install prompt-sync
 ```
 
-Cada ejercicio que pide datos por consola al usuario tiene importado el módulo:
+Cada ejercicio que pide datos por consola al usuario ya tiene importado el módulo:
 ``` typescript
 const prompt = require('prompt-sync')();
 ```
 
-Como estamos usando TypeScript, el editor nos marcará error, para ello debemos intalar los tipos:
+Como estamos usando TypeScript, el editor nos marcará error, para ello debemos instalar los tipos:
 ``` bash
 npm install --save-dev @types/prompt-sync
 ```
